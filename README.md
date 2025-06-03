@@ -31,4 +31,4 @@ dependencies {
 
 ### 3. Sync and Build
 * Sync your project in Android Studio.
-* CloudX Meta adapter will be automatically downloaded from GitHub Packages.
+* CloudX Google adapter will be automatically downloaded from GitHub Packages.
